@@ -178,7 +178,7 @@ Use `describe.sequential` for tests that share state (most API tests).
 Follow Conventional Commits: `feat:`, `fix:`, `docs:`, `chore:`, `refactor:`
 
 ## Pre-commit
-
+chinese
 `simple-git-hooks` runs `lint-staged` on commit, auto-runs `eslint --fix` on staged files.
 
 ## API Route Patterns
